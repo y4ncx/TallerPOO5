@@ -1,34 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad9deb0-3c86-492b-ae87-d176aa165c5f" name="Changes" comment="" />
+    <list default="true" id="b6393b09-5980-45ef-9253-d50f24fff2d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2oxWRdv2qPn7kTaDqAdmcC84u8h" />
+  <component name="ProjectId" id="2ottaTCpSoeqMGFqOvONsFWl8Do" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClasePrueba.executor": "Run",
+    "Application.PruebaPersonas.executor": "Run",
+    "Application.PruebaProducto.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "RamaEjemplos",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cad9deb0-3c86-492b-ae87-d176aa165c5f" name="Changes" comment="" />
-      <created>1731811705391</created>
+      <changelist id="b6393b09-5980-45ef-9253-d50f24fff2d6" name="Changes" comment="" />
+      <created>1731700765756</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731811705391</updated>
+      <updated>1731700765756</updated>
     </task>
     <servers />
   </component>
